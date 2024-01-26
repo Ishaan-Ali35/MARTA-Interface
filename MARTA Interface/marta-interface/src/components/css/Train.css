@@ -1,0 +1,97 @@
+.content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    margin-left: 40px;
+    height: 125;
+    width: 1110px;
+}
+
+.right-content {
+    margin-top: 30px;
+}
+
+.direction {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 50px;
+    margin-right: 15px;
+    margin-bottom: 30px;
+    margin-top: 33px;
+}
+
+.station-info {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.line-delayed {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.left-content {
+    display: flex;
+    flex-direction: row;
+    width: 600px;
+    margin-left: 20px;
+}
+
+.train-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.station-info {
+    display: flex;
+    flex-direction: row;
+}
+
+.line-delayed {
+    display: flex;
+    flex-direction: row;
+}
+
+.line {
+    color: white;
+    margin-right: 10px;
+    border-style: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: gold;
+}
+
+.minutes {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif  ;
+    font-weight: bolder;
+    font-size: 40px;
+    color: red;
+    margin: 0px;
+}
+
+.min {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    color: red;
+    margin: 0px;
+}
+
+.arrow {
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+

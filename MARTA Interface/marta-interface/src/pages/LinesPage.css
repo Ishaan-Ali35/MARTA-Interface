@@ -1,0 +1,50 @@
+.title {
+    font-size: 75px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.homeButton {
+    position: absolute;
+    left: 25px;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.linesPageHeader {
+    display: flex;
+    flex-direction: row;
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+    justify-content: space-around;
+}
+
+.pageContent {
+    display: flex;
+    flex-direction: row;
+    border-top-style: solid;
+
+}
+
+.goldButton {
+    background-color: #FFD700;
+    margin-bottom: 20px;
+}
+
+.redButton {
+    background-color: #FF0000;
+    margin-bottom: 20px;
+}
+
+.blueButton {
+    background-color: #4169E1;
+    margin-bottom: 20px;
+}
+
+.greenButton {
+    background-color: #228B22;
+    margin-bottom: 20px;
+}

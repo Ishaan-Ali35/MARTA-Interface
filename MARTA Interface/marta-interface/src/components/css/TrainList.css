@@ -1,0 +1,27 @@
+/* .train-content {
+    display: block;
+} */
+
+.buttons button {
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-right: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.buttons {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-left: 200px;
+    display: flex;
+    flex-direction: row;
+}
+
+.buttons p {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+

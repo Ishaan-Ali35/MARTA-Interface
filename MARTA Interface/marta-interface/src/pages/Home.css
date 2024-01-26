@@ -1,0 +1,70 @@
+.header {
+    display: flex;
+    width: 1512px;
+    border-bottom-style: solid;
+}
+
+.marta {
+    font-size: 90px;
+    margin-left: 620px;
+    border-bottom-style: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.about {
+    margin-left: 355px;
+    font-size: 35px;
+    margin-top: 60px;
+}
+
+.allLines {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-left: 0px;
+    margin-right: 100px;
+}
+
+.viewRoutesHeading {
+    margin-bottom: 0px;
+    padding-left: 0px;
+    text-align: start;
+}
+
+.image {
+    height: 500px;
+    width: 650px;
+    position: absolute;
+    top: 200px;
+    left: 820px;
+}
+.viewRoutes {
+    font-size: 50px;
+    font-weight: bolder;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    width:625px
+}
+
+.allLines p {
+    margin-bottom: 0px;
+    border-bottom-style: solid;
+    padding-right: 400px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    text-align: start;
+    width: 175px;
+}
+
+.smallerContent {
+    display: flex;
+    flex-direction: row;
+}
+
+.page .content {
+    height: 630px;
+}

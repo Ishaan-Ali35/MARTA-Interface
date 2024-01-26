@@ -1,0 +1,38 @@
+.navBar {
+    background-color: black;
+    padding-right: 60px;
+    min-width: 256.06px;
+    min-height: 1500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.navBarElement {
+    color: lightgray;
+    background-color: black;
+    border-style: solid;
+    border-bottom-color: lightgray;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+    padding-right: 10px;
+    padding-left: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 0;
+    text-align: left;
+}
+
+.navBarElement p {
+    font-weight: 0;
+    font-size: 15px;
+}
+
+#navBarHeader {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif   ;
+    color: gray;
+    padding-left: 10px;
+    margin-left: 0px;
+    border-style: none;
+    margin-bottom: 0px;
+    text-align: left;
+}
